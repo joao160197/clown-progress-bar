@@ -3,9 +3,9 @@ A simple progress bar that changes color depending on which button the user pres
 
 # Technologies:
 Technologies used on this test:
-. html
-. css
-. reactJs
+- html.
+- css.
+- reactJs.
 
 # How to use it:
 After clone the repository all you need to do is choose one of the three options that will result in a color change inside the progress bar:
