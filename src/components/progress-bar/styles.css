@@ -61,7 +61,7 @@ header img:hover {
 
 #bad:checked ~ .progress > .progress-bar{
   width: 10%;
-  background-color: #ff0000;
+  background-color: #fb0505;
 }
 
 #ok:checked ~ .progress > .progress-bar{
