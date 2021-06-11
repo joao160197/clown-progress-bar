@@ -1,4 +1,4 @@
-# Progress-Bar 
+# Progress-Bar:
 A simple progress bar that changes color depending on which button the user presses , each button represents a grade ranging from bad to awesome and is intended to allow users to express their satisfaction with a service provided and every time the user places the cursor over the logo it activates a small animation.
 
 # Technologies:
