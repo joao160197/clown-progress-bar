@@ -13,3 +13,10 @@ After clone the repository all you need to do is choose one of the three options
 - Orange = "Ok".
 - Green = "Awesome".
 
+# Prints:
+
+![image](https://user-images.githubusercontent.com/74571057/121968696-2743e600-cd49-11eb-8c13-bd0c65bbd6c1.png)
+![image](https://user-images.githubusercontent.com/74571057/121968738-3f1b6a00-cd49-11eb-8edd-a0b2e243f599.png)
+![image](https://user-images.githubusercontent.com/74571057/121968756-45a9e180-cd49-11eb-97f4-55985389c119.png)
+
+
